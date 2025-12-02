@@ -1,5 +1,14 @@
 # Responsive Restaurant Website
 
+![](https://komarev.com/ghpvc/?username=mscbuild) 
+ ![](https://img.shields.io/github/license/mscbuild/restaurant-website) 
+ ![](https://img.shields.io/badge/PRs-Welcome-green)
+ ![](https://img.shields.io/github/languages/code-size/mscbuild/restaurant-website)
+![](https://img.shields.io/badge/code%20style-html5-green)
+![](https://img.shields.io/github/stars/mscbuild)
+![](https://img.shields.io/badge/Topic-Github-lighred)
+![](https://img.shields.io/website?url=https://github.com/mscbuild)
+
 **Responsive for all devices, build using HTML, CSS, and JavaScript.**
 
 <p dir="auto"><a href="https://github.com/mscbuild/restaurant-website/" rel="nofollow"><strong>➥ Live Demo</strong></a></p>
