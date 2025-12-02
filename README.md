@@ -29,6 +29,6 @@ Responsive web design is an approach to web development that ensures a website's
 
 # Clone this repository
 
-`git clone https://github.com/codewithsadee/grilli.git`
+`git clone https://github.com/mscbuild/restaurant-website.git`
 
 # License MIT
