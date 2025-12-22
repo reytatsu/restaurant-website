@@ -13,7 +13,7 @@
 
 <p dir="auto"><a href="https://mscbuild.github.io/restaurant-website/" rel="nofollow"><strong>➥ Live Demo</strong></a></p>
 
-<img width="1333" height="596" alt="789" src="https://github.com/user-attachments/assets/ec6ebe54-99cb-4b6b-a7ca-674aee3ffc29" />
+<img width="1333" height="596" alt="mscbuild" src="https://github.com/user-attachments/assets/ec6ebe54-99cb-4b6b-a7ca-674aee3ffc29" />
 
 # About
 
